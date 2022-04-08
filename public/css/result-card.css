@@ -1,0 +1,13 @@
+.result-container {
+  text-align: -webkit-center;
+}
+.result {
+  width: 74%;
+  height: fit-content;
+  display: flex;
+  padding-top: 7%;
+  justify-content: space-between;
+  flex-flow: wrap;
+  text-align: left;
+  color: black;
+}
